@@ -8123,7 +8123,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Saw: {fileID: 4793974640280876175, guid: f5183881bd7d3c1429286bdc65bf0fee, type: 3}
   startTime: 0.1
-  repeatTime: 0.03
+  repeatTime: 0.02
 --- !u!4 &1937897403
 Transform:
   m_ObjectHideFlags: 0
